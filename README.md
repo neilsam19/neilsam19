@@ -31,7 +31,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 📧 Email: [nsamant8@gatech.edu]
+- 📧 [Email Me](mailto:nsamant8@gatech.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/neil-samant)
 - 🌐 [Devpost Portfolio](https://devpost.com/checkninja)
 
