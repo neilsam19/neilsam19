@@ -24,7 +24,7 @@
 ### 🚀 Featured Projects
 - 🔬 [**xRAI**](https://github.com/neilsam19/xRAI): HackGT2024 project for generating X-ray insights using ML
 - 📈 [**Simpli-Earn**](https://github.com/gt-big-data/simpli-earn): AI-powered earnings call analysis platform that generates real-time summaries, sentiment insights, and actionable financial takeaways from YouTube videos or library calls. Built with Next.js and LangChain.
-- 🏋️‍♂️ [**FitPlan**](https://github.com/Nehal70/FitPlan): An AI-powered workout manager tailored for advanced physical therapy. Tracks patient progress, recommends customized routines, and supports recovery using smart automation.
+- 🏋️‍♂️ [**TheraFit**](https://github.com/Nehal70/FitPlan): An AI-powered workout manager tailored for advanced physical therapy. Tracks patient progress, recommends customized routines, and supports recovery using smart automation.
 - 📬 [**cold-email-gen**](https://github.com/neilsam19/cold-email-gen): LLaMA-powered cold email generator
 - 🧠 [**ai-chatbot**](https://github.com/neilsam19/ai-chatbot): NLP-based chatbot using Python
 
