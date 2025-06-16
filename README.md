@@ -16,7 +16,7 @@
 ### 🧠 Skills
 - **Languages:** Python, Java, C++, SQL, JavaScript (React, Node, Express)
 - **Frameworks/Tools:** FastAPI, Flask, Pandas, NumPy, Firebase, MongoDB
-- **AI/ML:** Scikit-Learn, TensorFlow, OpenAI APIs, LangChain
+- **AI/ML:** Scikit-Learn, PyTorch, TensorFlow, OpenAI APIs, LangChain
 - **Other:** Git, Docker, Tableau, REST APIs
 
 ---
