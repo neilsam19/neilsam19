@@ -6,7 +6,7 @@
 ---
 
 ### 🔍 About Me
-- 🎓 I'm currently studying **Mathematics (Data Science concentration)** and **minoring in CS** at Georgia Tech.
+- 🎓 I'm currently studying **Mathematics and Computing** at Georgia Tech.
 - 💡 Passionate about applying **AI and machine learning** to solve real-world problems.
 - 🛠️ I’ve built AI tools in healthcare, chatbots, and transcription apps.
 - ♟️ USCF National Master in Chess - Playing for over ten years has honed my problem-solving and critical thinking.
